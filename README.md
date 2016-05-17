@@ -39,7 +39,7 @@ on Github](https://github.com/sondr3/generator-jekyllized).
 ## Developed by
 
 > [Kalys](http://kalyneramon.com.br)
-> 
-> ## Owner
+ 
+## Owner
 
 > [Gon](http://rafagoncalves.github.io)

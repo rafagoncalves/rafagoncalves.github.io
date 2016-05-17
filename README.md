@@ -36,6 +36,10 @@ local changes, so back it up.
 For more information on how to use your new project, please refer to the [README
 on Github](https://github.com/sondr3/generator-jekyllized).
 
-## Owner
+## Developed by
 
-> [Kalyne](http://rafagoncalves.github.io)
+> [Kalys](http://kalyneramon.com.br)
+> 
+> ## Owner
+
+> [Gon](http://rafagoncalves.github.io)

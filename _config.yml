@@ -1,7 +1,7 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: gon
-description: 
+title: "GON. #graphicdesigner #UX/UIdesigner #coffeelover"
+description:
 url: http://rafagoncalves.github.io
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
@@ -16,9 +16,9 @@ author:
   name: Kalyne
   email: hello@kalyneramon.com.br
   uri: www.kalyneramon.com.br
-  bio: 
-  twitter: 
-  github: 
+  bio:
+  twitter:
+  github:
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts

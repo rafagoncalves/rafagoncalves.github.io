@@ -1,6 +1,7 @@
 .intro {
   @include span-columns(12);
-  @include background($oxford-blue);
+  background: url('/assets/images/bg_home.jpg') $oxford-blue;
+  background-size: cover;
   min-height: 100vh;
   text-align: center;
 
@@ -14,3 +15,4 @@
 
   }
 }
+

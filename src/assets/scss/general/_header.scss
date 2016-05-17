@@ -1,0 +1,4 @@
+.main-header {
+  @include position(absolute, 0 null null 0);
+  @include pad($base-spacing);
+}

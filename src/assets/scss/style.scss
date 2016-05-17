@@ -1,8 +1,5 @@
-/*
-The main SCSS file for everything, yep
-*/
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
 
-@import "main";
-@import "base";
-@import "layout";
-@import "syntax-highlighting";
+

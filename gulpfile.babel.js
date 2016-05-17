@@ -212,6 +212,8 @@ gulp.task('serve', () => {
   });
 
   // Watch various files for changes and do the needful
+  gulp.watch(['src/**/*.md', 'src/**/*.html', 'src/**/*.yml'], gulp.series('jekyll')).on('change', reload)
+  gulp.watch('src/assets/images/**/*').on('change', reload)
   gulp.watch(['src/**/*.md', 'src/**/*.html', 'src/**/*.yml'], gulp.series('jekyll', reload));
   gulp.watch(['src/**/*.xml', 'src/**/*.txt'], gulp.series('jekyll'));
   gulp.watch('src/assets/javascript/**/*.js', gulp.series('scripts'));

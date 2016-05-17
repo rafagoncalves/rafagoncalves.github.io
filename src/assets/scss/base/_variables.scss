@@ -3,7 +3,7 @@ $medium-screen: 600px;
 $large-screen: 900px;
 
 // Typography
-$base-font-family: arial;
+$base-font-family: 'Roboto', sans-serif;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
@@ -24,6 +24,12 @@ $blue: #1565c0;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
+
+//project colors
+$oxford-blue: #29363B;
+$sea-shell: #FFF8F4;
+$radical-red: #EA495F;
+$light: #fff;
 
 // Font Colors
 $base-font-color: $dark-gray;

@@ -2,21 +2,18 @@
 layout: default
 ---
 
-<div class="home">
+<section class="intro centered-box">
 
-  <h1 class="page-heading">Posts</h1>
+  <div class="centered-box__content">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="wrapper">
+      {% include svg/ic-gon.svg %}
+      <h2 class="intro__hashtags ">
+        #graphicdesigner #UX/UIdesigner #coffeelover
+      </h2>
+    </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-</div>
+</section>
+

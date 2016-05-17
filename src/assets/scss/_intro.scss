@@ -1,0 +1,18 @@
+.intro {
+  @include span-columns(12);
+  background: url('/assets/images/bg_home.jpg') $oxford-blue;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+
+  &__hashtags {
+    font-family: $base-font-family;
+    font-size: rem(20);
+    color: $sea-shell;
+    font-weight: 100;
+    line-height: rem(60);
+    @include fill-parent;
+
+  }
+}
+

@@ -591,7 +591,10 @@ hr {
         left: 0;
         background: rgba(41, 54, 59, 0.9); }
         .main-header--fixed .nav {
-          line-height: 5.625rem; } }
+          line-height: 3.75rem; } }
+    .main-header--fixed .main-header__brand > svg {
+      height: 60px;
+      width: 60px; }
   .main-header__brand {
     width: 6.25rem;
     float: left; }
@@ -633,11 +636,11 @@ hr {
   .nav__link:link, .nav__link:visited {
     color: #FFF8F4;
     font-family: "Roboto", sans-serif;
-    font-size: 1.25rem;
-    font-weight: 100; }
+    font-size: 1.1875rem;
+    font-weight: 300; }
   .nav__link:hover, .nav__link:active {
     color: #FDCEA9;
-    font-weight: 400; }
+    font-weight: 300; }
 
 @media screen and (max-width: 768px) {
   .nav--mobile {
@@ -1000,7 +1003,7 @@ hr {
   .about__text {
     color: #FFF8F4;
     font-weight: 200;
-    font-size: 1.5rem; }
+    font-size: 1.375rem; }
     @media screen and (max-width: 768px) {
       .about__text {
         font-size: 1.0625rem; } }
@@ -1079,7 +1082,7 @@ hr {
   display: block;
   margin-right: 2.3576515979%;
   width: 100%;
-  background: #FFF8F4;
+  background: #fff;
   margin-top: 3.75rem;
   padding: 3.75rem 0; }
   .case__images:last-child {
@@ -1107,10 +1110,10 @@ hr {
     background: #fff;
     border-bottom: 1px solid #29363B;
     color: #818C8C;
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: 200;
-    line-height: 40px;
-    padding: 2.5rem 2.5rem 1.875rem; }
+    line-height: 2.8125rem;
+    padding: 1.875rem 2.5rem 1.25rem; }
     @media screen and (max-width: 768px) {
       .bar-case__wrapper {
         float: left;

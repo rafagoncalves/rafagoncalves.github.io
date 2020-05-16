@@ -1,51 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
-<loc>http://rgon.com.br/your-voice/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
+  <loc>https://rafaelgoncalves.me/</loc>
 </url>
-<url>
-<loc>http://rgon.com.br/me-valorizo/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/maranata/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/helabs/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/controle-de-salao/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/adcorpus/</loc>
-<lastmod>2016-05-03T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/jekyll/2015/02/03/welcome-to-jekyll/</loc>
-<lastmod>2015-02-03T00:00:00-02:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/jekyll/example/2014/03/01/example-content/</loc>
-<lastmod>2014-03-01T00:00:00-03:00</lastmod>
-</url>
-<url>
-<loc>http://rgon.com.br/404/</loc>
-</url>
-<url>
-<loc>http://rgon.com.br/about/</loc>
-</url>
-<url>
-<loc>http://rgon.com.br/</loc>
-</url>
-<url>
-<loc>http://rgon.com.br/thanks/</loc>
-</url>
-<url>
-<loc>http://rgon.com.br/curriculo.pdf</loc>
-<lastmod>2016-08-22T14:40:19-03:00</lastmod>
-</url>
+
+
 </urlset>

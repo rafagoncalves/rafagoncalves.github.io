@@ -1,0 +1,34 @@
+<svg id="Shape" xmlns="http://www.w3.org/2000/svg" width="377" height="609" viewBox="0 0 377 609">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-3 {
+        opacity: 0.02;
+      }
+
+      .cls-2 {
+        opacity: 0.03;
+      }
+
+      .cls-4 {
+        opacity: 0.01;
+      }
+
+      .cls-5 {
+        opacity: 0.05;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1565.34,1646.62H1691v125.82H1565.34V1646.62Z" transform="translate(-1314 -1395)"/>
+  <rect id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" class="cls-2" x="125.66" y="377.44" width="125.68" height="125.81"/>
+  <rect id="Rectangle_3_copy_3" data-name="Rectangle 3 copy 3" class="cls-3" x="251.34" width="125.66" height="125.81"/>
+  <rect id="Rectangle_3_copy_6" data-name="Rectangle 3 copy 6" class="cls-4" y="483.19" width="125.66" height="125.81"/>
+  <path id="Rectangle_3_copy" data-name="Rectangle 3 copy" class="cls-5" d="M1439.66,1520.81h125.68v125.81H1439.66V1520.81Z" transform="translate(-1314 -1395)"/>
+</svg>

@@ -1,0 +1,104 @@
+@media (min-width: 1200px) {
+  .container {padding-left: 0 !important;padding-right: 0 !important;}
+}
+
+@media (max-width: 1199px) {
+  .my-services .single-featured-service:nth-child(odd) .service-text {padding-right: 15px; padding-left: 30px;}
+  .my-services .single-featured-service:nth-child(even) .service-text {padding-left: 15px; padding-right: 30px;}
+}
+/*(max-width: 1199px)*/
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .my-services .single-featured-service .service-text strong {font-size: 90px;}
+  .my-services .single-featured-service .service-text h3 {font-size: 45px;margin: 5px 0 15px;}
+  .my-services .single-featured-service p {font-size: 22px;}
+}
+/*(min-width: 992px) and (max-width: 1199px)*/
+
+@media (max-width: 991px) {
+  .hero-area {height: auto;padding: 100px 15px;}
+  .hero-area>div {top:0;transform: none; margin: 0 auto;}
+  .my-services .single-featured-service .image {width: 50%;margin: 0 auto 40px;}
+  .my-services .single-featured-service .service-text {width: 100%;padding: 0 !important;}
+  .my-services .single-featured-service {padding: 0 15px 0;}
+  .my-services .load-more {margin-top: 0;}
+  
+} 
+/*(max-width: 991px)*/
+
+@media (min-width: 768px) and (max-width: 991px) {
+  body {font-size: 22px;}
+  p {line-height: 45px;}
+  #main-menu .sidebar-nav .nav-item a {font-size: 40px;}
+  .theme-title {font-size: 110px;padding-left: 60px;margin-bottom: 35px;}
+  .theme-title span,.theme-title:first-letter {font-size: 150px;}
+  .section-spacing {padding-top: 150px;}
+  .my-services {padding-top: 60px;}
+  .hero-area>div {max-width: 690px;}
+  .my-work .cbp-l-filters-alignCenter .cbp-filter-item {font-size: 18px;margin-right: 30px;}
+  .my-work .cbp-l-filters-alignCenter {margin-bottom: 100px;}
+  
+}
+/*(min-width: 768px) and (max-width: 991px)*/
+
+@media (max-width: 767px) {
+  body {font-size: 20px;}
+  p {line-height: 42px;}
+  .hero-area h1 {font-size: 100px;}
+  .hero-area h1 span {font-size: 120px;}
+  .theme-title {font-size: 60px;padding-left: 40px;margin-bottom: 25px;}
+  .theme-title span,.theme-title:first-letter {font-size: 80px;}
+  .theme-title span,.theme-title {line-height: initial;}
+  .section-spacing {padding-top: 120px;}
+  .my-services {padding-top: 70px;}
+  #about {padding-top: 50px;}
+  .about-me blockquote {margin: 90px 0 60px;}
+  .about-me blockquote:before {font-size: 140px;top:-98px;}
+  .about-me .button-group li .download-button,.about-me .button-group li .hire-button,.single-price-plan .order-button {font-size: 20px;}
+  .my-services .single-featured-service {padding-top: 25px;margin-bottom: 85px;}
+  .my-work .cbp-l-filters-alignCenter .cbp-filter-item {font-size: 16px;margin: 10px 10px 0;}
+  .my-work .cbp-l-filters-alignCenter {margin: 30px auto 80px; text-align: center;}
+  .contact-form-wrapper .form-group {margin-bottom: 40px;}
+  .theme-footer {margin-top: 0px;padding: 30px 0;text-align: center;}
+  .theme-footer p {margin-bottom: 20px;}
+}
+/*(max-width: 767px)*/
+
+
+@media (min-width: 576px) and (max-width: 991px) {
+  
+}
+/*(min-width: 576px) and (max-width: 991px)*/
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+  #main-menu .sidebar-nav .nav-item a {font-size: 30px;}
+  #main-menu .sidebar-nav .nav-item a:before {bottom: 12px;}
+  .hero-area>div {max-width: 510px;}
+  .my-services .single-featured-service .service-text strong {font-size: 90px;}
+  .my-services .single-featured-service .service-text h3 {font-size: 45px;margin: 5px 0 15px;}
+  .my-services .single-featured-service .image {width: 70%;}
+  
+}
+/*(min-width: 576px) and (max-width: 767px)*/
+
+@media (max-width: 575px) {
+  .hero-area h1 {font-size: 50px;}
+  .hero-area h1 span {font-size: 80px;}
+  .hero-area p {padding-top: 25px;}
+  #main-menu .sidebar-nav .nav-item a {font-size: 25px; margin: 12px 0;}
+  #main-menu .sidebar-nav .nav-item a:before {bottom: 10px;}
+  .my-services .single-featured-service .service-text strong {font-size: 70px;}
+  .my-services .single-featured-service .service-text h3 {font-size: 40px;margin: 5px 0 15px;}
+  .my-services .single-featured-service .image {width: 100%;}
+  .theme-footer p {font-size: 18px;}
+}
+/*(max-width: 575px)*/
+
+@media (max-width: 650px) {
+  
+}
+@media (max-width: 500px) {
+  
+}

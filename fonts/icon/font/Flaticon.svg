@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2019-4-24: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Wed Apr 24 17:47:22 2019
+ By root
+
+</metadata>
+<defs>
+<font id="Flaticon" horiz-adv-x="200" >
+  <font-face 
+    font-family="Flaticon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="0 16.1719 512 367.828"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F100"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="001-quotes" unicode="&#xf100;" horiz-adv-x="512" 
+d="M112.391 239.953c61.7949 0 111.891 -50.0957 111.891 -111.891s-50.0957 -111.891 -111.891 -111.891c-61.7959 0 -111.891 50.0957 -111.891 111.891l-0.5 15.9844c0 123.591 100.19 223.781 223.781 223.781v-63.9375c-42.6953 0 -82.8359 -16.627 -113.026 -46.8174
+c-5.81152 -5.8125 -11.1152 -11.9961 -15.8994 -18.4922c5.71289 0.899414 11.5684 1.37207 17.5352 1.37207zM400.109 239.953c61.7949 0 111.891 -50.0957 111.891 -111.891s-50.0957 -111.891 -111.891 -111.891s-111.891 50.0957 -111.891 111.891l-0.5 15.9844
+c0 123.591 100.189 223.781 223.781 223.781v-63.9375c-42.6934 0 -82.8369 -16.627 -113.026 -46.8174c-5.8125 -5.8125 -11.1162 -11.9961 -15.9004 -18.4922c5.71387 0.899414 11.5693 1.37207 17.5361 1.37207z" />
+  </font>
+</defs></svg>

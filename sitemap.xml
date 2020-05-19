@@ -4,6 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
@@ -19,10 +20,22 @@
   <loc>https://rafaelgoncalves.me/blog/posts/</loc>
 </url>
 <url>
+  <loc>https://rafaelgoncalves.me/blog/2020/05/19/planejamento-estrategico-em-tempos-de-crise-como-organizar-o-seu-backlog/</loc>
+</url>
+<url>
+  <loc>https://rafaelgoncalves.me/blog/category/carreiras/</loc>
+</url>
+<url>
   <loc>https://rafaelgoncalves.me/blog/category/de-volta-para-o-futuro/</loc>
 </url>
 <url>
+  <loc>https://rafaelgoncalves.me/blog/category/product-owner/</loc>
+</url>
+<url>
   <loc>https://rafaelgoncalves.me/blog/tag/2010/</loc>
+</url>
+<url>
+  <loc>https://rafaelgoncalves.me/blog/tag/backlog/</loc>
 </url>
 <url>
   <loc>https://rafaelgoncalves.me/blog/tag/design/</loc>
@@ -31,10 +44,16 @@
   <loc>https://rafaelgoncalves.me/blog/tag/hello-word/</loc>
 </url>
 <url>
+  <loc>https://rafaelgoncalves.me/blog/tag/priorizacao/</loc>
+</url>
+<url>
   <loc>https://rafaelgoncalves.me/blog/tag/processo-criativo/</loc>
 </url>
 <url>
   <loc>https://rafaelgoncalves.me/blog/tag/product-owner/</loc>
+</url>
+<url>
+  <loc>https://rafaelgoncalves.me/blog/tag/tomada-de-decisao/</loc>
 </url>
 <url>
   <loc>https://rafaelgoncalves.me/blog/author/admin/</loc>
